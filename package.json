@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "babel": "^6.23.0",
+    "draft-css": "0.0.1",
     "draft-js": "^0.10.4",
     "node": "^9.4.0",
     "react": "^16.2.0",
